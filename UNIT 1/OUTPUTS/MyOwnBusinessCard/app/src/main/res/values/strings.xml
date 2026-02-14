@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Own Business Card</string>
+
+    <string name="full_name">Daryl Lacorte</string>
+    <string name="job_title">Bachelor of Science in Computer Science 3</string>
+    <string name="phone_number">+63 9502435467</string>
+    <string name="github_handle">@darylxslr</string>
+    <string name="email_address">daryllacorte20052@gmail.com</string>
+</resources>
